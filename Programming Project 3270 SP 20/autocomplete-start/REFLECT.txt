@@ -1,0 +1,6 @@
+Name: Elizabeth Dayton
+AUID: ead0044
+Hours Spent: 12 hours
+Consulted With: Cole Beck (clb0119)
+Resources Used: NONE 
+Impressions: This project wasn't very difficult, but I still don't understand how from code, we're supposed to be able to figure out a detailed analysis of the complexity. I can count for and while loops and give some sort of guess, but I don't understand how you can determine whether it's n or n^2 or whatever else just from how quickly it runs. Overall, this project wasn't very helpful in my understanding of algorithmic complexity.
